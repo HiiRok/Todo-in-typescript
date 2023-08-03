@@ -6,20 +6,25 @@ This is a simple Todo app built using TypeScript. It allows users to create, rea
 
 Make sure you have Node.js and TypeScript installed on your machine.
 
-### `Installation`
+## Installation
 1.Clone this repository to your local machine.
+
 2.Navigate to the project directory in your terminal.
-3.Run the following command to install the dependencies: 
+
+3.Run the following command to install the dependencies and start the application: 
 
 ###  `npm install`
 
-### `npm test`
+### `npm start`
 
-### `Features`
+## Features
+
 1.Create a new task by entering a task name and clicking "Add Task."
+
 2.Delete a task by clicking the task.
 
 ## Key Points
+
 1.Strongly Typed: TypeScript is used to enforce static typing, providing clear and explicit types for variables, function parameters, and return values.
 
 2.Interfaces and Classes: The app uses interfaces and classes for defining the structure of data, keeping the code organized and easy to understand.
@@ -34,6 +39,8 @@ Make sure you have Node.js and TypeScript installed on your machine.
 
 7.Usage of TypeScript Features: The code uses various TypeScript features, such as readonly properties, optional properties, and more, to make the code concise and expressive.
 
-### `Acknowledgments`
+## Acknowledgments
+
 The Todo app was inspired by various existing Todo applications.
+
 Thanks to the TypeScript and Node.js communities for their valuable tools and packages.
